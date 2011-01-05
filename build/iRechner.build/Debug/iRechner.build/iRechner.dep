@@ -1,0 +1,16 @@
+310b1a0741903ad3548305da796ae4d6 9e9b0234d53d0443e9108c5607bd870d ffffffffffffffffffffffffffffffff 6540 /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/CalcModel.o
+ffffffffffffffffffffffffffffffff 4422413b11a6ca12e7af5fdf853d6d12 ffffffffffffffffffffffffffffffff 0 /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/GUIController.o
+310b1a0701549e0f548305da796ae187 9b0ec8fc61763617226912809efb0c8b ffffffffffffffffffffffffffffffff 18020 /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/iRechnerAppDelegate.o
+310b1a070cb3071d548305da796ae0cf 60ba2a3eb329c35857e470f2da7d9921 ffffffffffffffffffffffffffffffff 2376 /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/main.o
+ffffffffffffffffffffffffffffffff 1fdd5faf06fe55e28211f4fd95eb1dd8 ffffffffffffffffffffffffffffffff 102 /Users/Q/Desktop/iRechner/build/Debug/iRechner.app
+00000000000000000000000000000000 41ccfe8e1502e7fde1300910aaf99dfd ffffffffffffffffffffffffffffffff 458 /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Resources/en.lproj/Credits.rtf
+000000004d2462bc0000000000014d3e 17fbe243bdce159d3790278248d22cba ffffffffffffffffffffffffffffffff 17910 /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Resources/en.lproj/MainMenu.nib
+000000004d23ddd10000000000000066 8e71fea097283e5ca5fa8ccb214e5fe3 ffffffffffffffffffffffffffffffff 204 /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Resources/en.lproj/InfoPlist.strings
+ffffffffffffffffffffffffffffffff dff05a2ba5f90bc565943d172082a2f3 ffffffffffffffffffffffffffffffff 33896 /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/MacOS/iRechner
+000000000de799120000000000000171 310b1a070cb3071d548305da796ae0a7 ffffffffffffffffffffffffffffffff 9005192 /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iRechner_Prefix-flgylacrpxikdvfmyppvlwrbburz/iRechner_Prefix.pch.pth
+00000000000000000000000000000000 e5e5b73e60fb8ee77f02fe16eeece324 ffffffffffffffffffffffffffffffff 8 /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/PkgInfo
+00000000000000000000000000000000 e5e5b73e60fb8ee77f02fe16eeece324 ffffffffffffffffffffffffffffffff 887 /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Info.plist
+ffffffffffffffffffffffffffffffff 47a5ade6d8e6040074710badc61d2146 ffffffffffffffffffffffffffffffff 276 /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/StaticAnalyzer/normal/x86_64/GUIController.plist
+310b1a074190df48548305da796ae2d4 d532454cdc518a94602ea066148abe41 ffffffffffffffffffffffffffffffff 276 /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/StaticAnalyzer/normal/x86_64/CalcModel.plist
+310b1a0701549e0f548305da796ae187 a4cc9bb157d5dfca6a670cddaeb5c59f ffffffffffffffffffffffffffffffff 276 /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/StaticAnalyzer/normal/x86_64/iRechnerAppDelegate.plist
+310b1a070cb3071d548305da796ae0cf f28849878eabb6ea4ae0301c7a24f5f1 ffffffffffffffffffffffffffffffff 276 /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/StaticAnalyzer/normal/x86_64/main.plist

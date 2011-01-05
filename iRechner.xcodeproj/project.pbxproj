@@ -1,0 +1,293 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		100E1B4212D36AF900F3C658 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 100E1B4112D36AF900F3C658 /* Cocoa.framework */; };
+		100E1B4712D36AFA00F3C658 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 100E1B4512D36AFA00F3C658 /* InfoPlist.strings */; };
+		100E1B4912D36AFA00F3C658 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 100E1B4812D36AFA00F3C658 /* main.m */; };
+		100E1B4C12D36AFB00F3C658 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 100E1B4A12D36AFB00F3C658 /* MainMenu.xib */; };
+		100E1B4F12D36AFB00F3C658 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 100E1B4D12D36AFB00F3C658 /* Credits.rtf */; };
+		100E1B5212D36AFB00F3C658 /* iRechnerAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 100E1B5112D36AFB00F3C658 /* iRechnerAppDelegate.m */; };
+		1050AC9912D36FAE00D18F5B /* GUIController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1050AC9812D36FAE00D18F5B /* GUIController.m */; };
+		1050ACFA12D3807400D18F5B /* CalcModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1050ACF912D3807400D18F5B /* CalcModel.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		100E1B3E12D36AF900F3C658 /* iRechner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iRechner.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		100E1B4112D36AF900F3C658 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		100E1B4312D36AF900F3C658 /* iRechner-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iRechner-Info.plist"; sourceTree = "<group>"; };
+		100E1B4412D36AFA00F3C658 /* iRechner_Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iRechner_Prefix.pch; sourceTree = "<group>"; };
+		100E1B4612D36AFA00F3C658 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		100E1B4812D36AFA00F3C658 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		100E1B4B12D36AFB00F3C658 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		100E1B4E12D36AFB00F3C658 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		100E1B5012D36AFB00F3C658 /* iRechnerAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iRechnerAppDelegate.h; sourceTree = "<group>"; };
+		100E1B5112D36AFB00F3C658 /* iRechnerAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iRechnerAppDelegate.m; sourceTree = "<group>"; };
+		1050AC9712D36FAE00D18F5B /* GUIController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GUIController.h; sourceTree = "<group>"; };
+		1050AC9812D36FAE00D18F5B /* GUIController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GUIController.m; sourceTree = "<group>"; };
+		1050ACF812D3807400D18F5B /* CalcModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalcModel.h; sourceTree = "<group>"; };
+		1050ACF912D3807400D18F5B /* CalcModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalcModel.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		100E1B3B12D36AF900F3C658 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				100E1B4212D36AF900F3C658 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		100E1B2F12D36AF800F3C658 = {
+			isa = PBXGroup;
+			children = (
+				100E1B3612D36AF900F3C658 /* Classes */,
+				100E1B3712D36AF900F3C658 /* Other Sources */,
+				100E1B3812D36AF900F3C658 /* Resources */,
+				100E1B3912D36AF900F3C658 /* Frameworks */,
+				100E1B3F12D36AF900F3C658 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		100E1B3612D36AF900F3C658 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				100E1B5012D36AFB00F3C658 /* iRechnerAppDelegate.h */,
+				100E1B5112D36AFB00F3C658 /* iRechnerAppDelegate.m */,
+				1050AC9712D36FAE00D18F5B /* GUIController.h */,
+				1050AC9812D36FAE00D18F5B /* GUIController.m */,
+				1050ACF812D3807400D18F5B /* CalcModel.h */,
+				1050ACF912D3807400D18F5B /* CalcModel.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		100E1B3712D36AF900F3C658 /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				100E1B4412D36AFA00F3C658 /* iRechner_Prefix.pch */,
+				100E1B4812D36AFA00F3C658 /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		100E1B3812D36AF900F3C658 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				100E1B4312D36AF900F3C658 /* iRechner-Info.plist */,
+				100E1B4512D36AFA00F3C658 /* InfoPlist.strings */,
+				100E1B4A12D36AFB00F3C658 /* MainMenu.xib */,
+				100E1B4D12D36AFB00F3C658 /* Credits.rtf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		100E1B3912D36AF900F3C658 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				100E1B4112D36AF900F3C658 /* Cocoa.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		100E1B3F12D36AF900F3C658 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				100E1B3E12D36AF900F3C658 /* iRechner.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		100E1B3D12D36AF900F3C658 /* iRechner */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 100E1B5512D36AFB00F3C658 /* Build configuration list for PBXNativeTarget "iRechner" */;
+			buildPhases = (
+				100E1B3A12D36AF900F3C658 /* Sources */,
+				100E1B3B12D36AF900F3C658 /* Frameworks */,
+				100E1B3C12D36AF900F3C658 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iRechner;
+			productName = iRechner;
+			productReference = 100E1B3E12D36AF900F3C658 /* iRechner.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		100E1B3112D36AF800F3C658 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 100E1B3412D36AF900F3C658 /* Build configuration list for PBXProject "iRechner" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 100E1B2F12D36AF800F3C658;
+			productRefGroup = 100E1B3F12D36AF900F3C658 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				100E1B3D12D36AF900F3C658 /* iRechner */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		100E1B3C12D36AF900F3C658 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				100E1B4712D36AFA00F3C658 /* InfoPlist.strings in Resources */,
+				100E1B4C12D36AFB00F3C658 /* MainMenu.xib in Resources */,
+				100E1B4F12D36AFB00F3C658 /* Credits.rtf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		100E1B3A12D36AF900F3C658 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				100E1B4912D36AFA00F3C658 /* main.m in Sources */,
+				100E1B5212D36AFB00F3C658 /* iRechnerAppDelegate.m in Sources */,
+				1050AC9912D36FAE00D18F5B /* GUIController.m in Sources */,
+				1050ACFA12D3807400D18F5B /* CalcModel.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		100E1B4512D36AFA00F3C658 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				100E1B4612D36AFA00F3C658 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		100E1B4A12D36AFB00F3C658 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				100E1B4B12D36AFB00F3C658 /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		100E1B4D12D36AFB00F3C658 /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				100E1B4E12D36AFB00F3C658 /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		100E1B5312D36AFB00F3C658 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		100E1B5412D36AFB00F3C658 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		100E1B5612D36AFB00F3C658 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iRechner_Prefix.pch;
+				INFOPLIST_FILE = "iRechner-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = iRechner;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		100E1B5712D36AFB00F3C658 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iRechner_Prefix.pch;
+				INFOPLIST_FILE = "iRechner-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = iRechner;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		100E1B3412D36AF900F3C658 /* Build configuration list for PBXProject "iRechner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				100E1B5312D36AFB00F3C658 /* Debug */,
+				100E1B5412D36AFB00F3C658 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		100E1B5512D36AFB00F3C658 /* Build configuration list for PBXNativeTarget "iRechner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				100E1B5612D36AFB00F3C658 /* Debug */,
+				100E1B5712D36AFB00F3C658 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 100E1B3112D36AF800F3C658 /* Project object */;
+}

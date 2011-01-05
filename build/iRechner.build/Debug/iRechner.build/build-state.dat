@@ -1,0 +1,334 @@
+TiRechner
+v7
+r0
+t315934947.140944
+cCheck dependencies
+cProcessInfoPlistFile /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Info.plist iRechner-Info.plist
+cProcessPCH /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iRechner_Prefix-flgylacrpxikdvfmyppvlwrbburz/iRechner_Prefix.pch.pth iRechner_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/main.o /Users/Q/Desktop/iRechner/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/iRechnerAppDelegate.o /Users/Q/Desktop/iRechner/Classes/iRechnerAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/GUIController.o /Users/Q/Desktop/iRechner/Classes/GUIController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/CalcModel.o /Users/Q/Desktop/iRechner/Classes/CalcModel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCopyStringsFile /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Resources/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+cCompileXIB /Users/Q/Desktop/iRechner/en.lproj/MainMenu.xib
+cCpResource build/Debug/iRechner.app/Contents/Resources/en.lproj/Credits.rtf en.lproj/Credits.rtf
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004CAA74040000000000003430
+t1286239236
+s13360
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Users/Q/Desktop/iRechner/Classes/CalcModel.h
+c000000004D23D6FA000000000000016C
+t1294194426
+s364
+i<Cocoa/Cocoa.h>
+
+N/Users/Q/Desktop/iRechner/Classes/CalcModel.m
+c000000004D23D84E0000000000000589
+t1294194766
+s1417
+i"CalcModel.h"
+
+N/Users/Q/Desktop/iRechner/Classes/GUIController.h
+c000000004D2462A70000000000000497
+t1294230183
+s1175
+i<Cocoa/Cocoa.h>
+i"CalcModel.h"
+
+N/Users/Q/Desktop/iRechner/Classes/GUIController.m
+c000000004D24940300000000000026C1
+t1294242819
+s9921
+i"GUIController.h"
+i"CalcModel.h"
+i<math.h>
+
+N/Users/Q/Desktop/iRechner/Classes/iRechnerAppDelegate.h
+c000000004D23337B0000000000000122
+t1294152571
+s290
+
+N/Users/Q/Desktop/iRechner/Classes/iRechnerAppDelegate.m
+c000000004D23337B0000000000000173
+t1294152571
+s371
+i"iRechnerAppDelegate.h"
+
+N/Users/Q/Desktop/iRechner/build/Debug/iRechner.app
+t1294231218
+s102
+
+N/Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Info.plist
+t1294228422
+s887
+
+N/Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/MacOS/iRechner
+t1294231218
+s33896
+
+N/Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/PkgInfo
+t1294228422
+s8
+
+N/Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Resources/en.lproj/Credits.rtf
+t1294228426
+s458
+
+N/Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1294228426
+s204
+
+N/Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Resources/en.lproj/MainMenu.nib
+t1294230257
+s17910
+
+N/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/CalcModel.o
+t1294228424
+s6540
+
+N/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/GUIController.o
+t2
+s0
+
+N/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/iRechner.LinkFileList
+c000000004D245BC600000000000001A1
+t1294228422
+s417
+
+N/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/iRechnerAppDelegate.o
+t1294228423
+s18020
+
+N/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/main.o
+t1294228423
+s2376
+
+N/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/StaticAnalyzer/normal/x86_64/CalcModel.plist
+t1294186845
+s276
+
+N/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/StaticAnalyzer/normal/x86_64/GUIController.plist
+t1294186817
+s276
+
+N/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/StaticAnalyzer/normal/x86_64/iRechnerAppDelegate.plist
+t1294186817
+s276
+
+N/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/StaticAnalyzer/normal/x86_64/main.plist
+t1294186817
+s276
+
+N/Users/Q/Desktop/iRechner/en.lproj/Credits.rtf
+c000000004D23DE4500000000000001CA
+t1294196293
+s458
+
+N/Users/Q/Desktop/iRechner/en.lproj/InfoPlist.strings
+c000000004D23DDD10000000000000066
+t1294196177
+s102
+
+N/Users/Q/Desktop/iRechner/en.lproj/MainMenu.xib
+c000000004D2462BC0000000000014D3E
+t1294230204
+s85310
+
+N/Users/Q/Desktop/iRechner/iRechner_Prefix.pch
+c000000004D23337A0000000000000094
+t1294152570
+s148
+i<Cocoa/Cocoa.h>
+
+N/Users/Q/Desktop/iRechner/main.m
+c000000004D23337A00000000000000FC
+t1294152570
+s252
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iRechner_Prefix-flgylacrpxikdvfmyppvlwrbburz/iRechner_Prefix.pch.pth
+t1294154628
+s9005192
+
+NiRechner-Info.plist
+c000000004D23337900000000000005B3
+t1294152569
+s1459
+
+CAnalyze /Users/Q/Desktop/iRechner/Classes/CalcModel.m
+s315879645.617740
+e315879645.863953
+r1
+xAnalyze
+x/Users/Q/Desktop/iRechner/Classes/CalcModel.m
+lSLF07#2@53"Analyze /Users/Q/Desktop/iRechner/Classes/CalcModel.m315879645#315879645#0(0"0(0#0#45"/Users/Q/Desktop/iRechner/Classes/CalcModel.m8627322784#1408"    cd /Users/Q/Desktop/iRechner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-generated-files.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-own-target-headers.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-all-target-headers.hmap -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-project-headers.hmap -F/Users/Q/Desktop/iRechner/build/Debug -I/Users/Q/Desktop/iRechner/build/Debug/include -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources/x86_64 -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iRechner_Prefix-flgylacrpxikdvfmyppvlwrbburz/iRechner_Prefix.pch --analyze /Users/Q/Desktop/iRechner/Classes/CalcModel.m -o /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/StaticAnalyzer/normal/x86_64/CalcModel.plist0#
+
+CAnalyze /Users/Q/Desktop/iRechner/Classes/GUIController.m
+s315879617.138971
+e315879617.312469
+r1
+xAnalyze
+x/Users/Q/Desktop/iRechner/Classes/GUIController.m
+lSLF07#2@57"Analyze /Users/Q/Desktop/iRechner/Classes/GUIController.m315879617#315879617#0(0"0(0#0#49"/Users/Q/Desktop/iRechner/Classes/GUIController.m8630238912#1416"    cd /Users/Q/Desktop/iRechner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-generated-files.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-own-target-headers.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-all-target-headers.hmap -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-project-headers.hmap -F/Users/Q/Desktop/iRechner/build/Debug -I/Users/Q/Desktop/iRechner/build/Debug/include -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources/x86_64 -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iRechner_Prefix-flgylacrpxikdvfmyppvlwrbburz/iRechner_Prefix.pch --analyze /Users/Q/Desktop/iRechner/Classes/GUIController.m -o /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/StaticAnalyzer/normal/x86_64/GUIController.plist0#
+
+CAnalyze /Users/Q/Desktop/iRechner/Classes/iRechnerAppDelegate.m
+s315879617.091919
+e315879617.293196
+r1
+xAnalyze
+x/Users/Q/Desktop/iRechner/Classes/iRechnerAppDelegate.m
+lSLF07#2@63"Analyze /Users/Q/Desktop/iRechner/Classes/iRechnerAppDelegate.m315879617#315879617#0(0"0(0#0#55"/Users/Q/Desktop/iRechner/Classes/iRechnerAppDelegate.m8631584384#1428"    cd /Users/Q/Desktop/iRechner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-generated-files.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-own-target-headers.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-all-target-headers.hmap -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-project-headers.hmap -F/Users/Q/Desktop/iRechner/build/Debug -I/Users/Q/Desktop/iRechner/build/Debug/include -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources/x86_64 -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iRechner_Prefix-flgylacrpxikdvfmyppvlwrbburz/iRechner_Prefix.pch --analyze /Users/Q/Desktop/iRechner/Classes/iRechnerAppDelegate.m -o /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/StaticAnalyzer/normal/x86_64/iRechnerAppDelegate.plist0#
+
+CAnalyze /Users/Q/Desktop/iRechner/main.m
+s315879615.549913
+e315879617.138065
+r1
+xAnalyze
+x/Users/Q/Desktop/iRechner/main.m
+lSLF07#2@40"Analyze /Users/Q/Desktop/iRechner/main.m315879615#315879617#0(0"0(0#0#32"/Users/Q/Desktop/iRechner/main.m8629548896#1390"    cd /Users/Q/Desktop/iRechner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-generated-files.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-own-target-headers.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-all-target-headers.hmap -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-project-headers.hmap -F/Users/Q/Desktop/iRechner/build/Debug -I/Users/Q/Desktop/iRechner/build/Debug/include -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources/x86_64 -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iRechner_Prefix-flgylacrpxikdvfmyppvlwrbburz/iRechner_Prefix.pch --analyze /Users/Q/Desktop/iRechner/main.m -o /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/StaticAnalyzer/normal/x86_64/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315934945#315934945#0(0"0(0#1#0"8624354080#0"0#
+
+CCompileC build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/CalcModel.o /Users/Q/Desktop/iRechner/Classes/CalcModel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s315921223.881580
+e315921224.014615
+r1
+xCompileC
+xbuild/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/CalcModel.o
+x/Users/Q/Desktop/iRechner/Classes/CalcModel.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@53"Compile /Users/Q/Desktop/iRechner/Classes/CalcModel.m315921223#315921224#0(0"0(0#0#45"/Users/Q/Desktop/iRechner/Classes/CalcModel.m8628530080#1390"    cd /Users/Q/Desktop/iRechner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-generated-files.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-own-target-headers.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-all-target-headers.hmap -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-project-headers.hmap -F/Users/Q/Desktop/iRechner/build/Debug -I/Users/Q/Desktop/iRechner/build/Debug/include -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources/x86_64 -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iRechner_Prefix-flgylacrpxikdvfmyppvlwrbburz/iRechner_Prefix.pch -c /Users/Q/Desktop/iRechner/Classes/CalcModel.m -o /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/CalcModel.o0#
+
+CCompileC build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/GUIController.o /Users/Q/Desktop/iRechner/Classes/GUIController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s315934945.569542
+e315934947.140450
+r0
+xCompileC
+xbuild/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/GUIController.o
+x/Users/Q/Desktop/iRechner/Classes/GUIController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Q/Desktop/iRechner/Classes/GUIController.m:39:50: error: expected identifier
+o -(NSNumber *)convertPi:(NSString *)convertString:{
+o                                                  ^
+o1 error generated.
+lSLF07#2@57"Compile /Users/Q/Desktop/iRechner/Classes/GUIController.m315934945#315934947#0(207"/Users/Q/Desktop/iRechner/Classes/GUIController.m:39:50: error: expected identifier -(NSNumber *)convertPi:(NSString *)convertString:{                                                  ^1 error generated.1(4@19"Expected identifier315934947#0#84#0(6@49"/Users/Q/Desktop/iRechner/Classes/GUIController.m315925956#39#50#0#0#19"expected identifier0(0#0#49"/Users/Q/Desktop/iRechner/Classes/GUIController.m8619773280#1398"    cd /Users/Q/Desktop/iRechner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-generated-files.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-own-target-headers.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-all-target-headers.hmap -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-project-headers.hmap -F/Users/Q/Desktop/iRechner/build/Debug -I/Users/Q/Desktop/iRechner/build/Debug/include -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources/x86_64 -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iRechner_Prefix-flgylacrpxikdvfmyppvlwrbburz/iRechner_Prefix.pch -c /Users/Q/Desktop/iRechner/Classes/GUIController.m -o /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/GUIController.o1#
+
+CCompileC build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/iRechnerAppDelegate.o /Users/Q/Desktop/iRechner/Classes/iRechnerAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s315921222.186472
+e315921223.881450
+r1
+xCompileC
+xbuild/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/iRechnerAppDelegate.o
+x/Users/Q/Desktop/iRechner/Classes/iRechnerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@63"Compile /Users/Q/Desktop/iRechner/Classes/iRechnerAppDelegate.m315921222#315921223#0(0"0(0#0#55"/Users/Q/Desktop/iRechner/Classes/iRechnerAppDelegate.m8629611456#1410"    cd /Users/Q/Desktop/iRechner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-generated-files.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-own-target-headers.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-all-target-headers.hmap -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-project-headers.hmap -F/Users/Q/Desktop/iRechner/build/Debug -I/Users/Q/Desktop/iRechner/build/Debug/include -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources/x86_64 -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iRechner_Prefix-flgylacrpxikdvfmyppvlwrbburz/iRechner_Prefix.pch -c /Users/Q/Desktop/iRechner/Classes/iRechnerAppDelegate.m -o /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/iRechnerAppDelegate.o0#
+
+CCompileC build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/main.o /Users/Q/Desktop/iRechner/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s315921222.184211
+e315921223.852003
+r1
+xCompileC
+xbuild/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/main.o
+x/Users/Q/Desktop/iRechner/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@40"Compile /Users/Q/Desktop/iRechner/main.m315921222#315921223#0(0"0(0#0#32"/Users/Q/Desktop/iRechner/main.m8623463584#1372"    cd /Users/Q/Desktop/iRechner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-generated-files.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-own-target-headers.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-all-target-headers.hmap -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-project-headers.hmap -F/Users/Q/Desktop/iRechner/build/Debug -I/Users/Q/Desktop/iRechner/build/Debug/include -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources/x86_64 -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources -include /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iRechner_Prefix-flgylacrpxikdvfmyppvlwrbburz/iRechner_Prefix.pch -c /Users/Q/Desktop/iRechner/main.m -o /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/Q/Desktop/iRechner/en.lproj/MainMenu.xib
+s315923056.562407
+e315923057.795249
+r1
+xCompileXIB
+x/Users/Q/Desktop/iRechner/en.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/Q/Desktop/iRechner/en.lproj/MainMenu.xib:565: note: This view is clipping its content.
+lSLF07#2@32"CompileXIB en.lproj/MainMenu.xib315923056#315923057#0(134"/* com.apple.ibtool.document.notices *//Users/Q/Desktop/iRechner/en.lproj/MainMenu.xib:565: note: This view is clipping its content.1(13@34"This view is clipping its content.315923057#18446744073709551615#0#0(6@47"/Users/Q/Desktop/iRechner/en.lproj/MainMenu.xib315923004#565#0#565#0#0"0(0#0#47"/Users/Q/Desktop/iRechner/en.lproj/MainMenu.xib8631118944#316"    cd /Users/Q/Desktop/iRechner    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Resources/en.lproj/MainMenu.nib /Users/Q/Desktop/iRechner/en.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Resources/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+s315921225.165829
+e315921226.409751
+r1
+xCopyStringsFile
+x/Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Resources/en.lproj/InfoPlist.strings
+xen.lproj/InfoPlist.strings
+lSLF07#2@31"Copy en.lproj/InfoPlist.strings315921225#315921226#0(0"0(0#0#52"/Users/Q/Desktop/iRechner/en.lproj/InfoPlist.strings8629199776#330"    cd /Users/Q/Desktop/iRechner    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 en.lproj/InfoPlist.strings --outdir /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Resources/en.lproj0#
+
+CCpResource build/Debug/iRechner.app/Contents/Resources/en.lproj/Credits.rtf en.lproj/Credits.rtf
+s315921226.410057
+e315921226.555748
+r1
+xCpResource
+xbuild/Debug/iRechner.app/Contents/Resources/en.lproj/Credits.rtf
+xen.lproj/Credits.rtf
+lSLF07#2@25"Copy en.lproj/Credits.rtf315921226#315921226#0(0"0(0#0#46"/Users/Q/Desktop/iRechner/en.lproj/Credits.rtf8617774176#321"    cd /Users/Q/Desktop/iRechner    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Q/Desktop/iRechner/en.lproj/Credits.rtf /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Resources/en.lproj0#
+
+CLd /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/MacOS/iRechner normal x86_64
+s315924017.989177
+e315924018.144936
+r1
+xLd
+x/Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/MacOS/iRechner
+xnormal
+xx86_64
+lSLF07#2@79"Link /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/MacOS/iRechner315924017#315924018#0(0"0(0#0#0"8631508128#480"    cd /Users/Q/Desktop/iRechner    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Q/Desktop/iRechner/build/Debug -F/Users/Q/Desktop/iRechner/build/Debug -filelist /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/Objects-normal/x86_64/iRechner.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/MacOS/iRechner0#
+
+CProcessInfoPlistFile /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Info.plist iRechner-Info.plist
+s315921222.139737
+e315921222.183824
+r1
+xProcessInfoPlistFile
+x/Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Info.plist
+xiRechner-Info.plist
+lSLF07#2@27"Process iRechner-Info.plist315921222#315921222#0(0"0(0#0#45"/Users/Q/Desktop/iRechner/iRechner-Info.plist8624706336#274"    cd /Users/Q/Desktop/iRechner    builtin-infoPlistUtility iRechner-Info.plist -genpkginfo /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Q/Desktop/iRechner/build/Debug/iRechner.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iRechner_Prefix-flgylacrpxikdvfmyppvlwrbburz/iRechner_Prefix.pch.pth iRechner_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s315847426.908459
+e315847429.090830
+r1
+xProcessPCH
+x/var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iRechner_Prefix-flgylacrpxikdvfmyppvlwrbburz/iRechner_Prefix.pch.pth
+xiRechner_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@30"Precompile iRechner_Prefix.pch315847426#315847429#0(0"0(0#0#45"/Users/Q/Desktop/iRechner/iRechner_Prefix.pch8607930016#1290"    cd /Users/Q/Desktop/iRechner    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-generated-files.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-own-target-headers.hmap -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-all-target-headers.hmap -iquote /Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/iRechner-project-headers.hmap -F/Users/Q/Desktop/iRechner/build/Debug -I/Users/Q/Desktop/iRechner/build/Debug/include -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources/x86_64 -I/Users/Q/Desktop/iRechner/build/iRechner.build/Debug/iRechner.build/DerivedSources -c /Users/Q/Desktop/iRechner/iRechner_Prefix.pch -o /var/folders/Nn/NnH7z34FGNeoS7vlZOR55k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iRechner_Prefix-flgylacrpxikdvfmyppvlwrbburz/iRechner_Prefix.pch.pth0#
+
+CTouch /Users/Q/Desktop/iRechner/build/Debug/iRechner.app
+s315924018.145274
+e315924018.151460
+r1
+xTouch
+x/Users/Q/Desktop/iRechner/build/Debug/iRechner.app
+lSLF07#2@56"Touch /Users/Q/Desktop/iRechner/build/Debug/iRechner.app315924018#315924018#0(0"0(0#0#0"8626345696#106"    cd /Users/Q/Desktop/iRechner    /usr/bin/touch -c /Users/Q/Desktop/iRechner/build/Debug/iRechner.app0#
+
